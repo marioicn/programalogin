@@ -36,6 +36,12 @@ body{
 
 #contenedorprincipal img{
     width: 140px;
+    
+} 
+
+#contenedorprincipal img:hover{
+    width: 145px;
+    
 } 
 
 .email {
