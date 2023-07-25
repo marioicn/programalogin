@@ -122,3 +122,15 @@ padding-left: 5px;
     cursor: pointer;
 
 }
+
+#buttonsingup:hover{
+  
+    color: var(--black);
+
+}
+
+#buttonlogin:hover{
+    
+     color: var(--black);
+ }
+
